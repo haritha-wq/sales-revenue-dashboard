@@ -213,14 +213,9 @@ streamlit run dashboard/app.py
 
 ## 👤 Author
 
-**[Your Name]**  
+HARITHA .S 
 BCom Computer Application | MCA — Artificial Intelligence & Machine Learning  
 
-📧 [your.email@gmail.com]  
-🔗 [LinkedIn Profile]  
-🐙 [GitHub Profile]
-
----
 
 ## 📄 License
 
